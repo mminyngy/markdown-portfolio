@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__I'm a cat person.__
+**I love traveling around the world.**
+I like making a **traveling** videos for fun.
